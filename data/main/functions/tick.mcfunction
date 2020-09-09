@@ -3,12 +3,11 @@
 
 scoreboard players add #djf_tick djf_tick 1
 
-# Every 1 second
-execute if score #djf_tick djf_tick matches 1 run function #main:second
-#execute if score #djf_tick djf_tick matches 21 run function #main:second
-#execute if score #djf_tick djf_tick matches 41 run function #main:second
-#execute if score #djf_tick djf_tick matches 61 run function #main:second
-#execute if score #djf_tick djf_tick matches 81 run function #main:second
+execute if score #djf_tick djf_tick matches 1 run function #main:loop
+#execute if score #djf_tick djf_tick matches 21 run function #main:loop
+#execute if score #djf_tick djf_tick matches 41 run function #main:loop
+#execute if score #djf_tick djf_tick matches 61 run function #main:loop
+#execute if score #djf_tick djf_tick matches 81 run function #main:loop
 
 # Run every tick
 # default #100
