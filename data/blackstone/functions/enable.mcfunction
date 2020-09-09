@@ -2,6 +2,6 @@
 #
 # Author: DJayFresh
 
-scoreboard players add #b2b_e b2b_e 1
+scoreboard players set #b2b_e b2b_e 1
 
-say enabling basalt to blackstone
+execute if score #b2b_e b2b_e matches 1 say enabling basalt to blackstone
