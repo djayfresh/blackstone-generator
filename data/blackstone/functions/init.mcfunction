@@ -3,4 +3,4 @@
 # Called by: #main:init
 # Author: DJayFresh
 
-scoreboard objectives add djf_tick dummy
+scoreboard objectives add b2b_e dummy
