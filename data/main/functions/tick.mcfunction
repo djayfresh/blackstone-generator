@@ -1,7 +1,6 @@
 # gets called ever ticket
 # shouldn't be used for anything but modifying scoreboard
 
-
 scoreboard players add #djf_tick djf_tick 1
 
 # every tick
