@@ -6,7 +6,7 @@ Source of truth for the text on the Planet Minecraft page (https://www.planetmin
 
 - Minecraft version: 26.3 (was 1.16 - 1.17)
 - Tags: Adventure, Afk, Basalt, Blackstone, Farming, Functions, Game Mechanic, Generator, Loot Tables, Predicates, Markers
-- Images: `images/Blackstone_Generator.png` (cover), `images/Blackstone_Generator_Distance.png`, `images/Blackstone_Generator_Reshoot.png`
+- Images (1280x720, built by `python tools/release_art.py` from vanilla 26.3 textures): `images/cover.png` (cover), `images/setup.png` (generator layout, where to stand, enable command), `images/markers.png` (markers and the config panel). The 2020 screenshots `images/Blackstone_Generator*.png` can stay as extra gallery images.
 
 ## Description (BBCode)
 
