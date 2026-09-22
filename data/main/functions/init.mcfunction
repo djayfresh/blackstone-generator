@@ -1,6 +1,0 @@
-# Desc: Creates required global scores
-#
-# Called by: #main:init
-# Author: DJayFresh
-
-scoreboard objectives add djf_tick dummy

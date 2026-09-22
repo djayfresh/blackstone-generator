@@ -1,6 +1,8 @@
 {
     "pack": {
-        "pack_format": 6,
-        "description": "Ability to farm blackstone from basalt generator"
+        "pack_format": 121,
+        "min_format": [121, 0],
+        "max_format": [121, 0],
+        "description": "Farm blackstone from a basalt generator"
     }
 }
